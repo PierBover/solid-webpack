@@ -1,0 +1,8 @@
+{
+	"presets": [
+		"@babel/preset-env"
+	],
+	"plugins": [
+		["jsx-dom-expressions", {"moduleName": "solid-js/dom"}]
+	]
+}
